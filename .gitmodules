@@ -1,0 +1,6 @@
+[submodule "quickstart/wowchemy-hugo-themes"]
+	path = quickstart/wowchemy-hugo-themes
+	url = https://github.com/wowchemy/wowchemy-hugo-themes.git
+[submodule "themes/wowchemy-hugo-themes"]
+	path = themes/wowchemy-hugo-themes
+	url = https://github.com/wowchemy/wowchemy-hugo-themes.git
