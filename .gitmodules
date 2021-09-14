@@ -4,3 +4,6 @@
 [submodule "themes/wowchemy-hugo-themes"]
 	path = themes/wowchemy-hugo-themes
 	url = https://github.com/wowchemy/wowchemy-hugo-themes.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
